@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 name = 'Dennis'
 print ('Hello, {} !'.format(name))
+print ('Hallo Sam')
