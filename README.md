@@ -1,2 +1,4 @@
-# Python-Labs
-Hoi Scamp, deze werkt nu ook :-)
+### Opleiding Python
+## Tamagotchi
+# Inleiding
+We gaan Python leren aan de hand van een eenvoudig project.  Dit verder uitbreiden wanneer er meer info is. 
