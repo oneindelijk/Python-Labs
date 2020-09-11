@@ -1,4 +1,3 @@
-# Opleiding Python
-## Tamagotchi
-### Inleiding
-We gaan Python leren aan de hand van een eenvoudig project.  Dit verder uitbreiden wanneer er meer info is. 
+## The Miraculous yourney of a wannabe programmer.
+### 2020-09-11
+Ik heb over Python zelf nog niet veel geleerd, maar wel een heleboel over het installeren van alle instanties die je nodig hebt om te kunnen starten.  Dit was geen verloren moeite, maar wel even intens omdat het niet vanzelf ging.  Volgende week maandag is er een nieuwe les.  Alles staat klaar, en heb goesting om in de code te duiken.  Ik volg ondertussen enkele tutorials van FreeCodeCamp, om toch wat vlotter de syntax kunnen lezen.    
