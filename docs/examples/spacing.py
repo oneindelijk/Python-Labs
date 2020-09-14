@@ -20,10 +20,11 @@ for a in range(0,10):
     for b in range(a, c):
         x = a + b
         y = a**2 + a/b
-        plot(x,y)
+        print(x,y)
 
 def some_func(val = 0):
     a = 3
     for i in [0,5,9,8]:
         I = 'Select {}'.format(i)
         print(I)
+        return a
