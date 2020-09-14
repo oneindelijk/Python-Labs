@@ -27,4 +27,3 @@ def some_func(val = 0):
     for i in [0,5,9,8]:
         I = 'Select {}'.format(i)
         print(I)
-    
