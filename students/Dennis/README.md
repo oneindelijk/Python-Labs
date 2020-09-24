@@ -19,7 +19,7 @@ Takenlijst tegen volgende week:
 
 enkele notities: 
 - App starten:
-    > run Tama.py
+    > run App.py
 - Functie starten: 
     > hond.geboorte("marie") 
     - op dit moment geven we de naam door van de hond in deze functie. Dit moet aangepast worden, en die gegevens gaan we vragen wanneer deze voor het eerst wordt opgestart. 
@@ -29,8 +29,15 @@ enkele notities:
     - "d" is de naam
     - "46 50 51" zijn de lijnnummer die onder deze macro zitten
     - Hierna uitvoeren met "d"
+- Reload Macro
+  - load_ext autoreload
 
 ### 2020-09-15
+
+uitzoeken hoe je de Ipython terminal clear
+selectie in commentaar zetten crtl + shift + :
+klote fucking stront foutmelding weghalen. 
+
 
 
   
